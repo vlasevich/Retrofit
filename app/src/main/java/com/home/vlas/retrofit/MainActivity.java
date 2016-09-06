@@ -24,7 +24,7 @@ import retrofit2.Response;
 public class MainActivity extends AppCompatActivity {
 
     private static final String TAG = MainActivity.class.getSimpleName();
-    private final static String API_KEY = "2ccce225a05a12509c458d340736012d";
+    private final static String API_KEY = "{YOUR API KEY}";
     private ProgressBar spinner;
 
     @Override
